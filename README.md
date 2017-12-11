@@ -7,3 +7,5 @@ Denne liste indeholder:
 * Navneord (ubestemt ental, ubestemt flertal)
 * Udsangsord (nutid, datid)
 * Tillægsord
+* Ingen ord der indeholder danske tegn (for at undgå æøå-misforståelser)
+* Ingen ord der indeholder andre specialtegn
